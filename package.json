@@ -1,0 +1,16 @@
+{
+  "name": "v-analyzer-site",
+  "version": "1.0.0",
+  "description": "v-analyzer site",
+  "scripts": {
+    "sass-watch": "sass --watch --source-map ./css/index.scss:./css/index.css"
+  },
+  "author": {
+    "name": "V Open Source Community Association (VOSCA)",
+    "url": "https://vosca.dev/"
+  },
+  "contributors": [
+    "Petr Makhnev"
+  ],
+  "homepage": "https://v-analyzer.github.io"
+}
